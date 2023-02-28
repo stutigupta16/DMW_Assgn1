@@ -7,3 +7,8 @@ Before running either change the name of yor csv file to dataset.csv or change "
 The format of your csv file should be the same as demonstrated in the demo csv file attached.
 The code outputs the final frequent subsets and takes minimum support as input from user.
 The dataset.csv file was used to run the algorithm on demo data.
+
+submitted by:
+stuti gupta
+1913141
+BTBTC19104
